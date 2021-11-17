@@ -1,0 +1,43 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    background-color: burlywood;
+}
+
+p.akapit1 {
+    background-color: chocolate;
+}
+
+h2 {
+    background-color: darkolivegreen;
+}
+
+p.akapit2 {
+    background-color: darkslategray;
+}
+
+ol {
+    background-color: dimgrey;
+}
+
+li#item1 {
+    color: dodgerblue
+}
+
+li#item2 {
+    color: gold
+}
+
+li#item3 {
+    color: honeydew
+}
+
+li#item4 {
+    color: hotpink
+}
+
+li#item5 {
+    color: lightseagreen;
+}
